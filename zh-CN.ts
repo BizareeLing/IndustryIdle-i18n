@@ -1392,7 +1392,7 @@ export const ZH_CN = {
     ExtraTradeQuotaDesc: "初始玩家交易配额是你市值的 1% - 这将给予额外百分比",
     ProduceAllCrops: "生产所有作物(Produce All Crops)",
     ProduceAllCropsDesc: "农田和温室可以生产所有农作物，包括地图上没有的农作物",
-    ResearchAgreement: "Research Agreement",
+    ResearchAgreement: "研究协议(Research Agreement)",
     ResearchAgreementDesc: "每笔独一无二的玩家交易会产生10分钟的研究点数",
     NewsEffectx2V2: "新闻发布会(Press Conference)",
     NewsEffectx2DescV2: "所有市场新闻提高50%",
@@ -1413,10 +1413,10 @@ export const ZH_CN = {
     MREPlant: "Meal, Ready-To-Eat Plant",
     PlayerTradeTaxCreditProduction: "税收减免:生产",
     PlayerTradeTaxCreditProductionDescV2:
-        "This tax credit is based on the amount of %{res} you've produced since the last market update. You have produced %{produced} and you have traded %{used}",
+        "此税收减免是基于您自上次市场更新以来生产的 %{res} 数量。 您已经生产了 %{produced} 并且您已经交易了 %{used}",
     PlayerTradeTaxCreditMarketCap: "税收减免:市值",
     PlayerTradeTaxCreditMarketCapDesc:
-        "此税收减免是您市值的 %{percentage} , 可通过 Swiss Upgrade/Boost 进行升级。总税收减免金额为 %{total},您使用了 %{used}",
+        "此税收减免是您市值的 %{percentage} , 可通过 瑞士升级/加成 进行升级。总税收减免金额为 %{total},您使用了 %{used}",
     PlayerTradeGrossTradeValue: "总交易价值",
     PlayerTradeTaxableValue: "应税价值",
     PlayerTradeTaxRate: "税率",
